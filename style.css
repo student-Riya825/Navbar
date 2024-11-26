@@ -1,6 +1,22 @@
-.row{
-    border: 4px solid orange;
-}
-.pink{
-    background-color: skyblue;
-} 
+ .container{
+        border: 5px solid grey;
+        
+    }
+    .green{
+    background-color: green;
+    }
+    .red{
+        background-color: red;
+    }
+    .orange{
+        background-color: orange;
+    }
+    .skyblue{
+        background-color: skyblue;
+    }
+    #box{
+    background-color: white;
+    box-shadow: 0 1rem 2rem  black;
+    } 
+   
+
